@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 #Dokumentáció
 
-Ebben a kisérletben létrehoztuk az első github reponkat.
+Ebben a kisérletben creating a new repo
 
-Ne feledd az accountjs-ben az API kulcsot
+Ne feledd az accountjs-ben az API Keyt
 
