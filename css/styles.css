@@ -3,7 +3,11 @@ html {
 }
 
 h1 {
+<<<<<<< HEAD
   color: red;
+=======
+  color: rgb(49, 39, 12);
+>>>>>>> 4fe9490 (Kék cím)
   text-decoration: underline;
   font-size: 4.8rem;
 }
